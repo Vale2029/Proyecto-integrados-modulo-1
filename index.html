@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styless.css" />
+    <title>Explorador Turístico de Colombia</title>
+  </head>
+
+  <body>
+    <!-- Header -->
+    <header class="header">
+      <h1>Explorador Turístico de Colombia</h1>
+
+      <!-- Botón modo oscuro -->
+      <button id="bm_oscuro">🌙</button>
+    </header>
+
+    <main>
+      <!-- Buscador -->
+      <section class="seccion_buscar">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Buscar departamento..."
+        />
+      </section>
+
+      <!-- Loader -->
+      <div id="loader" class="loader hidden"></div>
+
+      <!-- Tarjetas -->
+      <section id="cardsContainer" class="cards-container"></section>
+    </main>
+
+    <footer>
+      <p>Proyecto Integrador – Modulo1_ValentinaRoballo❤️</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
