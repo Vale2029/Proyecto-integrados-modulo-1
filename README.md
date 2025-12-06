@@ -33,4 +33,4 @@ index.html
 
 El proyecto está disponible gracias a GitHub Pages:
 
-https://Vale2029/Proyecto-integrados-modulo-1.git
+https://vale2029.github.io/Proyecto-integrados-modulo-1/
