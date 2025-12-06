@@ -32,4 +32,5 @@ index.html
 🌐 Deploy
 
 El proyecto está disponible gracias a GitHub Pages:
-https://tu-usuario.github.io/Explorador-Colombia/
+
+https://Vale2029/Proyecto-integrados-modulo-1.git
